@@ -1,0 +1,10 @@
+name          'elibus-tws'
+version       '0.1.0'
+source        'https://github.com/elibus/puppet-tws'
+author        'elibus'
+license       'Apache 2.0'
+summary       'Install and configure TWS and beta92 agent'
+description   ''
+project_page  'https://github.com/elibus/puppet-tws'
+
+dependency 'puppetlabs/stdlib'
